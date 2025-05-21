@@ -53,6 +53,13 @@ Example features: amount, UPI handle age, location, category, etc.
 - 🏆 Model selection based on performance
 
 ---
+![fraud vs count](https://github.com/user-attachments/assets/25db358f-eda8-4ab7-9dcb-1546c6cd31de)
+
+
+![Visualising entire dataset](https://github.com/user-attachments/assets/82ef9360-bbf1-488f-936d-9e91ef0cdbcd)
+
+![F1 Score vs Models](https://github.com/user-attachments/assets/39bce75f-aa4e-49fd-b036-050b54e42281)
+
 
 ## 👨‍💻 Author
 
