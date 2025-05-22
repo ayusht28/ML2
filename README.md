@@ -63,6 +63,6 @@ Example features: amount, UPI handle age, location, category, etc.
 
 ## 👨‍💻 Author
 
-Ritik Ranjan  
+
 Created for hackathons and academic demonstration.
 
